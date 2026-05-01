@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋 I'm Muhammad Anwer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;MERN+Stack+Learner;Building+My+Future+with+Code;Welcome+to+My+GitHub+Profile" />
@@ -57,7 +55,7 @@
 
 > Success starts with discipline, faith, and consistency.
 
-<!--
+
 **anwer26/anwer26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
